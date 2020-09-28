@@ -19,15 +19,24 @@ Last but not least the else statmnet, if the user puts in some other than 1-4 th
 *Bold*
 
 *How To Use It?*
- ### 1.*Run* the code
- ### 2. Then enter a number for what operation you want to us
-  ####    1 for *Addition*
-  ####    2 for *Subtraction*
-  ####    3 for *Multiplication*
-  ####    4 for *Divison*
- ### 3. Enter the first number you want to calculate
- ### 4. Enter the second number you want to calculate
- ### 5. *THE ANSWER SHOULD APPEAR *
+ ### 
+ 1.*Run* the code
+ ### 
+ 2. Then enter a number for what operation you want to us
+  ####   
+  1 for *Addition*
+  ####   
+  2 for *Subtraction*
+  ####    
+  3 for *Multiplication*
+  ####   
+  4 for *Divison*
+ ### 
+ 3. Enter the first number you want to calculate
+ ### 
+ 4. Enter the second number you want to calculate
+ ###
+ 5. *THE ANSWER SHOULD APPEAR *
 
   # a
   ## a
