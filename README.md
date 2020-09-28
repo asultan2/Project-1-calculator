@@ -19,10 +19,10 @@ Last but not least the else statmnet, if the user puts in some other than 1-4 th
 *Bold*
 
 *How To Use It?*
+ ### 1.Run 
+ the code
  ### 
- 1.*Run* the code
- ### 
- 2. Then enter a number for what operation you want to us
+    2. Then enter a number for what operation you want to us
   ####   
   1 for *Addition*
   ####   
